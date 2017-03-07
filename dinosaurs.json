@@ -1,0 +1,22 @@
+{
+	"dinosaurs": [
+		{
+			"name": "Roxanne",
+			"type": "T-Rex",
+			"food": "smaller dinos",
+			"url": "https://www.sideshowtoy.com/assets/products/200209-t-rex-the-tyrant-king/lg/200209-t-rex-the-tyrant-king-003.jpg"
+		},
+		{
+			"name": "Tray",
+			"type": "Triceratops",
+			"food": "shrubs",
+			"url": "https://images-na.ssl-images-amazon.com/images/I/81HYJUy5qIL._SL1500_.jpg"
+		},
+		{
+			"name": "Val",
+			"type": "Velociraptor",
+			"food": "smaller dinos",
+			"url": "http://f.tqn.com/y/dinosaurs/1/S/G/r/-/-/velociraptorJP.jpg"
+		}
+	]
+}
